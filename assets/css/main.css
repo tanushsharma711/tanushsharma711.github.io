@@ -1956,7 +1956,7 @@ input, select, textarea {
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			box-shadow: 0 0 0 2px #21b2a6;
+			box-shadow: 0 0 0 2px #e29759;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2895,15 +2895,15 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 :-moz-placeholder {
-				color: #a6e0db !important;
+				color: #468b27 !important;
 			}
 
 			.wrapper.style1 ::-moz-placeholder {
-				color: #a6e0db !important;
+				color: #b6e0a6 !important;
 			}
 
 			.wrapper.style1 :-ms-input-placeholder {
-				color: #a6e0db !important;
+				color: #e0dea6 !important;
 			}
 
 			.wrapper.style1 .formerize-placeholder {
