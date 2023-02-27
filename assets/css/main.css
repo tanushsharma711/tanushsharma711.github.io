@@ -1792,7 +1792,7 @@ input, select, textarea {
 			}
 
 		header.major p {
-			color: #fff;
+			color: #000000;
 			top: 0;
 		}
 
@@ -2817,8 +2817,8 @@ input, select, textarea {
 		}
 
 		.wrapper.style1 {
-			background-color: #21b2a6;
-			color: #c8ece9;
+			background-color: #9CF6F6;
+			color: #000000;
 		}
 
 			.wrapper.style1 strong, .wrapper.style1 b {
@@ -2826,11 +2826,11 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #ffffff;
+				color: #000000;
 			}
 
 			.wrapper.style1 hr {
-				border-color: rgba(0, 0, 0, 0.125);
+				border-color: rgb(229, 8, 8);
 			}
 
 			.wrapper.style1 blockquote {
@@ -2850,7 +2850,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 header.major p {
-				color: #c8ece9;
+				color: #000000;
 			}
 
 			.wrapper.style1 label {
