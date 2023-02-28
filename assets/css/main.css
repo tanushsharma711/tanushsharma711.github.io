@@ -2826,7 +2826,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 h2, .wrapper.style1 h3, .wrapper.style1 h4, .wrapper.style1 h5, .wrapper.style1 h6 {
-				color: #000000;
+				color: #ffffff;
 			}
 
 			.wrapper.style1 hr {
@@ -2846,7 +2846,7 @@ input, select, textarea {
 			}
 
 			.wrapper.style1 header.major h2, .wrapper.style1 header.major h3, .wrapper.style1 header.major h4, .wrapper.style1 header.major h5, .wrapper.style1 header.major h6 {
-				border-color: rgba(0, 0, 0, 0.125);
+				border-color: rgb(255, 255, 255);
 			}
 
 			.wrapper.style1 header.major p {
@@ -2871,7 +2871,7 @@ input, select, textarea {
 
 				.wrapper.style1 select option {
 					color: #ffffff;
-					background: #21b2a6;
+					background: #c70ca5;
 				}
 
 			.wrapper.style1 input[type="checkbox"] + label,
@@ -2976,8 +2976,34 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background-color: #2e3842;
+			background-color: #F3C98B;
 		}
+
+		.wrapper.style6 {
+			background-color: #E7B78A;
+		}
+		.wrapper.style7 {
+			background-color: #DAA588;
+		}
+		.wrapper.style8 {
+			background-color: #C99B8A;
+		}
+		.wrapper.style9 {
+			background-color: #B8918B;
+		}
+		.wrapper.style10 {
+			background-color: #A7878D;
+		}
+		.wrapper.style11 {
+			background-color: #967D8F;
+		}
+		.wrapper.style12 {
+			background-color: #847290;
+		}
+		.wrapper.style13 {
+			background-color: #736891;
+		}
+
 
 		.wrapper.style3 {
 			background-color: #505393;
